@@ -10,7 +10,7 @@
 ### Permutations
 
 ### Part B
-    In file *pset4b_official*, I built a parent class (Message), and two subclasses of the parent class(PlaintextMessage and CiphertextMessage). 
+    In file **pset4b_official**, I built a parent class (Message), and two subclasses of the parent class(PlaintextMessage and CiphertextMessage). 
   #### Message class 
     ~ contains data attributes & methods inherited by both subclasses 
   #### PlaintextMessage class 

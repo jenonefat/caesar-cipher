@@ -14,10 +14,9 @@
   the best way to understand a recursive solution is to write/draw it out!!! 
   
 ### Part B
-    -file pset4b_official contains a program that encodes and decodes string messages by shifting 
+  - file pset4b_official contains a program that encodes and decodes string messages by shifting 
     all the letters down the alphabet 
-    - includes a parent class (Message), and two subclasses of the parent 
-    class(PlaintextMessage and CiphertextMessage). 
+  - includes a parent class (Message), and two subclasses of the parent class(PlaintextMessage and CiphertextMessage). 
   #### Message class 
     ~ contains data attributes & methods inherited by both subclasses 
   #### PlaintextMessage class 
